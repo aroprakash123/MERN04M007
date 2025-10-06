@@ -1,0 +1,32 @@
+/*1.Simple selector
+    =>id seletor
+    =>Class selector
+    =>Tag name selector
+    =>group name selector
+    =>Universal selector
+  2.Combine Selector
+  */
+
+  /*! id selector*/
+  #paragraph1{
+    background-color: red;
+  }
+  /* Class selector*/
+  .classRoompara{
+    background-color: aqua;
+  }
+  /*Tag name selector*/
+
+  h1{
+    background-color: blue;
+  }
+
+/*Tag name selector*/
+  p,h1{
+    font-family: 'Courier New', Courier, monospace;
+  }
+  /*Universal selector*/
+  *{
+    background-color: brown;
+    
+  }
