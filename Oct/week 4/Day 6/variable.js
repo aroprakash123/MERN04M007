@@ -131,3 +131,27 @@ declare_functionLevel_Const()
 //if i declare the variable inside the function using const keyword,i can only access the variable inside the function,i cannot access the variable output of the function
 
 //next class-way of declaration
+
+
+
+//notes
+
+//**JavaScript Variable**
+
+//A JavaScript variable is simply a name of storage location. There are two types of variables in JavaScript : local variable and global variable.
+
+//There are some rules while declaring a JavaScript variable (also known as identifiers).
+
+//1. Name must start with a letter (a to z or A to Z), underscore( _ ), or dollar( $ ) sign.
+//2. After first letter we can use digits (0 to 9), for example value1.
+//3. JavaScript variables are case sensitive, for example x and X are different variables.
+
+//Correct JavaScript variables
+
+//1. var x = 10;
+//2. var _value="sonoo";
+
+//Incorrect JavaScript variables
+
+//1. var 123=30;
+//2. var *aa=320;
