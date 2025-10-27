@@ -129,3 +129,5 @@ function declare_functionLevel_const(){
 declare_functionLevel_Const()
 
 //if i declare the variable inside the function using const keyword,i can only access the variable inside the function,i cannot access the variable output of the function
+
+//next class-way of declaration
