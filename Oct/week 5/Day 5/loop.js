@@ -83,7 +83,7 @@ console.log(stdObj.fullname)
 
 
 
-- 
+
     
     // 4.JavaScript for...in loop
     
