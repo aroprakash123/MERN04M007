@@ -70,3 +70,38 @@ console.log(strArr1)
 
 
 
+
+
+
+- 
+    
+    // String methods:-
+    
+    // String.length
+    
+    // String.slice()
+    
+    // String.replace()
+    
+    // String.replaceAll()
+    
+    // String.toUpperCase()
+    
+    // String. toLowerCase
+    
+    // String.concat()
+    
+    // String.trim()
+    
+    // String.trimStart()
+    
+    // trimEnd()
+    
+    // String charAt()
+    
+    // String.at()
+    
+    // String split()
+
+
+
