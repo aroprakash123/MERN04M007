@@ -1,4 +1,5 @@
 console.log("Today we are going to learn rest partof the function")
+console.log("Hello guys")
 
 //arrow function
 let arrowFun=()=>{
